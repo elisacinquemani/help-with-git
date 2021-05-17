@@ -1,6 +1,9 @@
 body {
     margin: 0; /*property & value*/
-    border-color: #000000;
+    /* border-color: #000000;
     border-width: 20px;
-    border-style: dotted;
+    border-style: dotted; */
+    min-height: 100vh;
+
+    border: 10px solid #ff00e1;
 }
