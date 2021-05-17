@@ -2,7 +2,7 @@
 This is my **github** *playground*.
 
 What can we do:
-- A new github repo
+- A new *github* repo
 - A group repo
 - A classroom assignment
 
