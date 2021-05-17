@@ -1,0 +1,6 @@
+body {
+    margin: 0; /*property & value*/
+    border-color: #000000;
+    border-width: 20px;
+    border-style: dotted;
+}
