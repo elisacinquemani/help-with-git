@@ -13,5 +13,4 @@ What can we do:
 2. two
 3. three
 
-
-https://www.github.com
+[this is the name of the link!](https://www.github.com)
